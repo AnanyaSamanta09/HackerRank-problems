@@ -1,1 +1,1 @@
-solution of hackerrank problems.
+solution's of hackerrank problems.
